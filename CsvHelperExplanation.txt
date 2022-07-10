@@ -1,0 +1,1 @@
+CVSHelper is the best class I know of to help writing and reading to csv files. I didn't want to make thinge more complicated if there was an open source library to handle things better than I could have
